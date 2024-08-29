@@ -66,3 +66,14 @@ npm run dev
 This will start the development server, and you should see output in the terminal indicating that the project is running. Open a web browser and access the project at the specified address (usually http://localhost:3000) to view it locally.
 
 Now, the EStore project should be set up and running on your local machine. Make sure to follow any additional project-specific instructions or configurations provided in the project's documentation.
+
+##output
+![image](https://github.com/user-attachments/assets/21188a07-2bc5-4291-bd2a-6bfe7202b34e)
+![image](https://github.com/user-attachments/assets/fb1c08ea-2e7a-419f-9c06-4325611113b8)
+
+![image](https://github.com/user-attachments/assets/51873aa9-114a-489f-b327-4ebd739bbdf8)
+
+![image](https://github.com/user-attachments/assets/490b05da-00d0-4922-9bf2-5a69a599a764)
+![image](https://github.com/user-attachments/assets/198b8c80-220a-4e0d-84e2-b0482b7299ee)
+
+
